@@ -2,14 +2,16 @@
 layout: default
 ---
 
-This website hosts introductory material for teaching biologists how to interact
+This website is adapted from introductory materials for teaching data science skills in R - lectures, assignments, and course structure was originally developed by Dr. Ethan White at the University of Florida as part of a semester long Data Carpentry style course in programming in R for biologists (https://datacarpentry.org/semester-biology/). This course is a truncated 6 week version of that course that is tought online, largely adapted from the first 6 weeks of Ethan White's semester long course. Below is Professor White's original message regarding sharing and adapting his course content:
+
+"This website hosts introductory material for teaching biologists how to interact
 with data including: data structure, database management systems, and
 programming for data manipulation, analysis, and visualization. It is designed
 to be used as a flipped university course and also to be useful for self-guided
 students. Instructors are welcome to modify and use the material for your own 
 courses. We encourage collaborative development and contributions by 
 instructors, with the hopes that this will lead to better training and resources 
-for everyone. 
+for everyone."
 
 For Students
 : <a href="{{ site.baseurl}}/syllabus">
