@@ -1,7 +1,10 @@
-# Data Carpentry for Biologists - Semester Course
+This repository contains materials for teaching a 6-week introductory online workshop for data science skills in R. The repository has been forked and modified from Ethan White's original Data Carpentry for Biologists semester course developed at the University of Florida. The original course materials contain a number of important messages about the use of their materials and how to contribute - we have largely left these messages intact, including the original readme text below. Our 6-week course was collaboratively organized by the [University of California Santa Barbara Office of Education Partnerships](https://oep.ucsb.edu/) and the [Smithsonian Data Science Lab](datascience.si.edu) as part of the [University of California Santa Barbara - Smithsonian Scholars Program](https://oep.ucsb.edu/programs/smithsonian_scholars_project/).
+
+
 
 RStudio:[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aewhite100/semester-biology/master)
 
+# Data Carpentry for Biologists - Semester Course
 
 [![DOI](https://zenodo.org/badge/31911336.svg)](https://zenodo.org/badge/latestdoi/31911336)
 
