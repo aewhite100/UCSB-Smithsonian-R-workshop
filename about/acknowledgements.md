@@ -5,21 +5,17 @@ title: Acknowledgments
 
 #### Primary Contributors
 
-Course materials and website design have been primarily developed and
-implemented by [Ethan White](http://ethanwhite.org) and [Zachary Brym](http://zackbrym.weecology.org/). See our [contributors page](https://github.com/datacarpentry/semester-biology/graphs/contributors) for more 
-details.
+This 6-week workshop was organized by the [Smithsonian Data Science Lab](https://datascience.si.edu/) and the [University of California Santa Barbara Office of Education Partnerships](https://oep.ucsb.edu/) as part of the [UCSB-Smithsonian Scholars program](https://oep.ucsb.edu/programs/smithsonian_scholars_project/). The course materials and this website were both adapted from materials originally created by [Ethan White](http://ethanwhite.org) and [Zachary Brym](http://zackbrym.weecology.org/). See their [contributors page](https://github.com/datacarpentry/semester-biology/graphs/contributors) for more details.
 
 #### Funding
 
-The development of this course, and this site, have been supported by the Gordon
-and Betty Moore Foundation's Data-Driven Discovery Initiative through grants
-[GBMF4563](https://www.moore.org/grants/list/GBMF4563) and [GBMF4855](https://www.moore.org/grants/list/GBMF4855), and by an [NSF CAREER award](http://nsf.gov/awardsearch/showAward?AWD_ID=0953694).
+The UCSB‐Smithsonian Scholars Program is primarily funded through the Latino Initiatives Pool, administered by the [Smithsonian Latino Center](https://latino.si.edu/). Additional funds are provided by UCSB, the Smithsonian National Zoo and Conservation Biology Institute, and the Smithsonian Office of the Chief Information Officer.  
 
 #### Data Carpentry
 
 [Data Carpentry](http://datacarpentry.org/) is a web and workshop based organization that is designed to teach 
 basic computing concepts, skills, and tools for working with scientific data. 
-The resources provided on this site are being developed in association with Data 
+The resources provided on this site were originally developed in association with Data 
 Carpentry.
 
 #### Software Carpentry
@@ -27,9 +23,7 @@ Carpentry.
 [Software Carpentry](http://software-carpentry.org) has been teaching scientists and engineers the concepts, skills, 
 and tools they need to use and build software more productively since 1977. All 
 of the content is freely available under a Creative Commons license (the same 
-one we use here), and the existence of this content not only saves me a massive 
-amount of time and effort, but also taught me a lot of what I know about 
-programming well.
+one used here).
 
 #### Infrastructure
 

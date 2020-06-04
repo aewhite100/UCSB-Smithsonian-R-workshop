@@ -3,11 +3,11 @@ layout: page
 title: Computer Setup
 ---
 
-***WIS 6934 students will need their own laptops set up with R by week 2, Git by week 10, and SQL by week 13.***
+***Students will need their own laptops and a github account username by week 1.***
 
-### R
+### Cloud computing for Smithsonian Scholars
 
-Download and install the [R base system](http://cran.rstudio.com/) and [RStudio](http://www.rstudio.com/products/rstudio/download/). Both are needed. Installing RStudio will not automatically install R.
+One major obstacle to learning scientific computing is having the proper hardware and software. Instead of wasting our time troubleshooting frustrating installation roadblocks, we have decided to sidestep that challenge by providing a ready made cloud computing environment for each of the UCSB-Smithsonian Scholars. The only requirements are an internet connection and a web browser, meaning a chromebook could easily be used to work through all of the assignments for the course. Specific directions for logging on and using the web portal are posted in the Gaucho Space course documents.  
 
 ### GitHub
 
@@ -21,7 +21,15 @@ Download and install the [R base system](http://cran.rstudio.com/) and [RStudio]
     1. Go to [https://github.com](https://github.com).
     2. Sign in if necessary.
     3. In the upper left corner click on the drop down with your name.
-    4. Confirm that the name name of the course GitHub organization is present
+    4. Confirm that the name of the course GitHub organization is present.
+
+*Some students may be curious about how to install scientific computing tools locally on their own machines. The directions below are only for those who would like to attempt installation on their own, but we recommend against local installation while the course is ongoing.*  
+
+## Local Install (not recommended for our course)
+
+### R
+
+Download and install the [R base system](http://cran.rstudio.com/) and [RStudio](http://www.rstudio.com/products/rstudio/download/). Both are needed. Installing RStudio will not automatically install R.
 
 ### Git
 

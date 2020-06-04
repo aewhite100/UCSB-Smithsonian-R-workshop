@@ -2,6 +2,9 @@
 layout: page
 title: Audience
 ---
+This course is designed to introduce undergraduate STEM students to scientific computing in R. The course was implemented online (Summer 2020) with a combination of weekly lectures and discussion sections. This course was organized as part of the [UCSB-Smithsonian Scholars Program](https://oep.ucsb.edu/programs/smithsonian_scholars_project/), a professional enrichment program for 1st and 2nd year STEM students who are first generation and or low-income, specifically from UCSB, Oxnard College, Santa Barbara City College, Allan Hancock College, Ventura College, and East LA College. Questions regarding our core audience and course implementation can be directed to the UCSB-Smithsonian Scholars Program Coordinator [Cristina Soto-Balderas](cristina.soto.balderas@ucsb.edu). 
+
+**This course is based on a [semester long course](https://datacarpentry.org/semester-biology/) developed by Dr. Ethan White and colleagues at the University of Florida. In keeping with their mission to share their course materials widely, we share their original message below regarding the use of their original course materials and how they are seeking contributions. Below is Ethan White's original message to his audience:**
 
 The long-term goal of this site is to help two large groups of people:
 1) Students in a classroom at a college or university; and 2) Free-range
