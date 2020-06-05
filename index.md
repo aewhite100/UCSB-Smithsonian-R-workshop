@@ -2,16 +2,7 @@
 layout: default
 ---
 
-This website is adapted from introductory materials for teaching data science skills in R - lectures, assignments, and course structure was originally developed by Dr. Ethan White at the University of Florida as part of a semester long Data Carpentry style course in programming in R for biologists (https://datacarpentry.org/semester-biology/). This course is a truncated 6 week version of that course that is tought online, largely adapted from the first 6 weeks of Ethan White's semester long course. Below is Professor White's original message regarding sharing and adapting his course content:
-
-"This website hosts introductory material for teaching biologists how to interact
-with data including: data structure, database management systems, and
-programming for data manipulation, analysis, and visualization. It is designed
-to be used as a flipped university course and also to be useful for self-guided
-students. Instructors are welcome to modify and use the material for your own 
-courses. We encourage collaborative development and contributions by 
-instructors, with the hopes that this will lead to better training and resources 
-for everyone."
+This website contains materials for the 6-week **Data Science in R** module for the **UCSB-Smithsonian Scholars** online course, organized by the UCSB [Office of Education Partnerships](https://oep.ucsb.edu/) and the Smithsonian [Data Science Lab](https://datascience.si.edu/). The website and materials are adapted from lectures and assignments originally developed by Dr. Ethan White at the University of Florida as part of a semester long Data Carpentry style course in [computing for biologists](https://datacarpentry.org/semester-biology/). This course is a 6-week introductory online course for teaching fundamentals of computing in R. 
 
 For Students
 : <a href="{{ site.baseurl}}/syllabus">
@@ -19,24 +10,11 @@ For Students
 : <a href="{{ site.baseurl}}/schedule">
   <i class="fa fa-calendar fa-fw"></i> Schedule</a>
 : <a href="{{ site.baseurl}}/computer-setup">
-  <i class="fa fa-download fa-fw"></i> Setup</a>
+  <i class="fa fa-download fa-fw"></i> Computer Setup</a>
 : <a href="{{ site.baseurl }}/materials/turn-in-checklist">
   <i class="fa fa-check-square fa-fw"></i> Assignment Submission & Checklist</a>
-: <a href="{{ site.baseurl}}/START-for-self-guided-students">
-  <i class="fa fa-play-circle fa-fw"></i> Self-Guided Start-Up Guide</a>
 : <a href="{{ site.baseurl}}/materials/datasets">
   <i class="fa fa-download fa-fw"></i> Datasets</a>
 
-For Instructors
-: <a href="{{ site.baseurl}}/readings">
-  <i class="fa fa-book fa-fw"></i> Readings</a>
-: <a href="{{ site.baseurl}}/lectures">
-  <i class="fa fa-comment fa-fw"></i> Lectures</a>
-: <a href="{{ site.baseurl}}/materials">
-  <i class="fa fa-list-alt fa-fw"></i> Lecture Materials</a>
-: <a href="{{ site.baseurl}}/assignments">
-  <i class="fa fa-keyboard-o fa-fw"></i> Assignments</a>
-: <a href="{{ site.baseurl}}/exercises">
-  <i class="fa fa-magic fa-fw"></i> Exercises</a>
-: <a href="{{ site.baseurl}}/docs">
-  <i class="fa fa-question-circle fa-fw"></i> Course Development Help</a>
+Instructors: *Please see [Ethan White's original course website](https://datacarpentry.org/semester-biology/) for information on course development and contributions.*
+
