@@ -17,9 +17,11 @@ location: Zoom
 
 {{ page.professor }}
 
-Email (best way to contact me):
-[{{ page.email }}](mailto:{{ page.email }})
 
+### Course Communications
+
+If you need to contact me for any reason, please send me an email.
+Email: [{{ page.email }}](mailto:{{ page.email }})
 
 ### Location
 
@@ -37,12 +39,6 @@ Email (best way to contact me):
 The syllabus and other relevant class information and resources will be posted
 at [{{ site.url}}]({{ site.baseurl }}/). Changes to the schedule will be posted to this 
 site so please try to check it periodically for updates.
-
-
-### Course Communications
-
-If you need to contact me for any reason, please send me an email.
-Email: [{{ page.email }}](mailto:{{ page.email }})
 
 
 ### Required Texts
